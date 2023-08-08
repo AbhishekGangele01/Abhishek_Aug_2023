@@ -1,0 +1,9 @@
+public class mainFolder{
+
+	public static void mainTest1{
+
+	    string greatingMsg = "Hello Wellcome to the git setup main repo file 1 " ;
+
+	    system.debug('greatingMsg----' + greatingMsg);
+	}
+}
